@@ -1,6 +1,6 @@
 # js-challenges
 
-## FreeCodeCamp Javascript Challenges 
+## FreeCodeCamp JavaScript Challenges 
 
 #### Palindrome Checker
 #### Roman Numeral Converter
